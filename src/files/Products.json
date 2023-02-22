@@ -1,0 +1,29 @@
+[
+    {
+      "id": "00952be8-db0d-4a66-9e74-bec9d6e542f5",
+      "title": "Producto1",
+      "description": "description1",
+      "price": "$33",
+      "thumbnail": "img1",
+      "code": "7cee8123-b4c6-4ab7-b210-a78bd0010763",
+      "stock": "22"
+    },
+    {
+      "id": "00952be8-db0d-4a66-9e74-bec9d6e542f5",
+      "title": "Producto2",
+      "description": "description2",
+      "price": "$55",
+      "thumbnail": "img1",
+      "code": "7cee8123-b4c6-4ab7-b210-a78bd0010763",
+      "stock": "22"
+    },
+    {
+      "id": "00952be8-db0d-4a66-9e74-bec9d6e542f5",
+      "title": "Producto3",
+      "description": "description3",
+      "price": "$66",
+      "thumbnail": "img1",
+      "code": "7cee8123-b4c6-4ab7-b210-a78bd0010763",
+      "stock": "22"
+    }
+  ]
